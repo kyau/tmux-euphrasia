@@ -10,6 +10,10 @@ A one-line tmux theme built from the Euphrasia terminal palette. It combines an
 active-window block and session name on the left, a pill-shaped window list in
 the center, and prefix/hostname information on the right.
 
+## Screenshots
+
+<img src=".github/media/screenshot.png" alt="tmux-euphrasia theme screenshot" width="100%">
+
 ## Requirements
 
 - tmux 3.2 or newer
